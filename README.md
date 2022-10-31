@@ -40,3 +40,4 @@ Practicing python by building 100 projects in 100 days. Learning automation, gam
 
 ## [Electric Vehicles Project](https://github.com/alexguerrero11/Electric-Vehicles-Project)
 dataset from [kaggle](https://www.kaggle.com/datasets/mohamedalishiha/electric-vehicles/code)
+Data about over 180 electric vehicles models on the market until 2023.
