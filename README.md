@@ -32,7 +32,8 @@ Compilation of SQL, Python, Tableu data analysis related projects and challenges
 
 # Projects & Challenges
 # SQL
-## SQL Weekly Challenges
+## [SQL Weekly Challenges](https://github.com/alexguerrero11/weekly-sql-challenges)
+Practicing SQL skills by doing weekly challenges.
 
 # Python
 ## [100 Days of Code: The Complete Python Pro Bootcamp](https://github.com/alexguerrero11/100-days-of-coding-python)
