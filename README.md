@@ -32,7 +32,7 @@ Compilation of SQL, Python, Tableu data analysis related projects and challenges
 
 # Projects & Challenges
 # SQL
-
+## SQL Weekly Challenges
 
 # Python
 ## [100 Days of Code: The Complete Python Pro Bootcamp](https://github.com/alexguerrero11/100-days-of-coding-python)
@@ -42,3 +42,5 @@ Practicing python by building 100 projects in 100 days. Learning automation, gam
 dataset from [kaggle](https://www.kaggle.com/datasets/mohamedalishiha/electric-vehicles/code)
 
 Data about over 180 electric vehicles models on the market until 2023.
+
+## Pandas Weekly Challenges
