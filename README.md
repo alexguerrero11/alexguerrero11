@@ -36,6 +36,16 @@ Compilation of SQL, Python, Tableu data analysis related projects and challenges
 Practicing SQL skills by doing weekly challenges.
 
 # Python
+## [Sales Product Data Analysis](https://github.com/alexguerrero11/sales-product-data-analysis)
+Praticing importing, cleaning and analyzing data to help get insight out this product saless data for the year of 2019.
+This data allows me to analyze the customers’ demographics.
+Such as, 
+- which products they buy?
+- when they buy?
+- how much revenue they generate?
+- how well they respond to promotions?
+- etc
+
 ## [100 Days of Code: The Complete Python Pro Bootcamp](https://github.com/alexguerrero11/100-days-of-coding-python)
 Practicing python by building 100 projects in 100 days. Learning automation, game, app and web development, data science and machine learning all using Python.
 
