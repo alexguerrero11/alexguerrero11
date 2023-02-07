@@ -1,8 +1,13 @@
 👋 Hi, I’m @alexguerrero11
+
 🔭 I’m currently working on 100 days of python and improving SQL skills
+
 🌱 I’m currently learning and improving skills on python, and SQL
+
 💬 Ask me about my journey learning python and SQL
+
 ⚡ Fun fact about me is that I learned python and SQL on my current job
+
 
 <!--
 I am experienced in developing and maintaining testing procedures to ensure company product standards are satisfied.
