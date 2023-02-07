@@ -1,10 +1,21 @@
-- 👋 Hi, I’m @alexguerrero11
+👋 Hi, I’m @alexguerrero11
+🔭 I’m currently working on 100 days of python and improving SQL skills
+🌱 I’m currently learning and improving skills on python, and SQL
+💬 Ask me about my journey learning python and SQL
+⚡ Fun fact about me is that I learned python and SQL on my current job
 
+<!--
 I am experienced in developing and maintaining testing procedures to ensure company product standards are satisfied.
 
 My day to day work involves conducting quality tests, performing inspection checks, setting product configurations, and communicating test results via thorough documentation.
 
 While not in school or working, I am currently enrolled in data camps to further improve my data analytics skills. Some tools I have used to gather and clean data have been SQL, python, and excel.
+-->
+
+<!--
+👯 I’m looking to collaborate
+🤝 I’m looking for help with SQL
+-->
 
 <!---
 alexguerrero11/alexguerrero11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
