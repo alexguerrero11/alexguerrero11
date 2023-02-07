@@ -9,6 +9,7 @@
 ⚡ Fun fact about me is that I learned python and SQL on my current job
 
 
+
 <!--
 I am experienced in developing and maintaining testing procedures to ensure company product standards are satisfied.
 
