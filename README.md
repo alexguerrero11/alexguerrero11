@@ -27,6 +27,9 @@ alexguerrero11/alexguerrero11 is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 
+# Personal Portfolio
+[link](https://alexguerrero11.github.io/personal-portfolio/)
+
 # Data Analysis & Data Visualizations Projects
 Compilation of SQL, Python, Tableu data analysis related projects and challenges where I practice those skills.
 
