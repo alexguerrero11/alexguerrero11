@@ -28,7 +28,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 # Personal Portfolio
-[link](https://alexguerrero11.github.io/personal-portfolio/)
+[Check out my personal portfolio](https://alexguerrero11.github.io/personal-portfolio/)
 
 # Data Analysis & Data Visualizations Projects
 Compilation of SQL, Python, Tableu data analysis related projects and challenges where I practice those skills.
