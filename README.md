@@ -1,12 +1,10 @@
-👋 Hi, I’m @alexguerrero11
+👋 Hi, I’m Alex!
 
-🔭 I’m currently working on 100 days of python and improving SQL skills
+🔭 I’m currently learning and improving my python, and SQL skills.
 
-🌱 I’m currently learning and improving skills on python, and SQL
+💬 Ask me about my journey learning python and SQL. Ask me about my workout journey.
 
-💬 Ask me about my journey learning python and SQL
-
-⚡ Fun fact about me is that I learned python and SQL on my current job
+⚡ Fun fact about me is that I like to ride my fixie around the city.
 
 
 <!--
@@ -28,6 +26,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 # Personal Portfolio
+Portfolio website built using HMTL and CSS. This is a website to showcase my technical skills, and web design skills.
 [Check out my personal portfolio](https://alexguerrero11.github.io/personal-portfolio/)
 
 # Data Analysis & Data Visualizations Projects
@@ -51,8 +50,6 @@ Compilation of SQL, Python, Tableu data analysis related projects and challenges
 
 # Projects & Challenges
 # SQL
-## [SQL Weekly Challenges](https://github.com/alexguerrero11/weekly-sql-challenges)
-Practicing SQL skills by doing weekly challenges.
 
 # Python
 ## [Workout Dashboard](https://github.com/alexguerrero11/workout-dash)
@@ -61,10 +58,15 @@ One of my goal last year was to start going to the gym more frequently. I starte
 - count of days out of current month
 - total records in dataset
 
-- link to [Streamlit App](https://alexguerrero11-workout-dash-app-w6rpqx.streamlit.app)
+link to [Streamlit App](https://alexguerrero11-workout-dash-app-w6rpqx.streamlit.app)
 
 ## [100 Days of Code: The Complete Python Pro Bootcamp](https://github.com/alexguerrero11/100-days-of-coding-python)
 Practicing python by building 100 projects in 100 days. Learning automation, game, app and web development, data science and machine learning all using Python.
+
+
+ <!---
+## [SQL Weekly Challenges](https://github.com/alexguerrero11/weekly-sql-challenges)
+Practicing SQL skills by doing weekly challenges.
 
 ## [Sales Product Data Analysis](https://github.com/alexguerrero11/sales-product-data-analysis)
 Praticing importing, cleaning and analyzing data to help get insight out this product saless data for the year of 2019.
@@ -77,3 +79,4 @@ Such as,
 - etc
 
 ## [Pandas Weekly Challenges](https://github.com/alexguerrero11/weekly-pandas-challenges)
+-->
