@@ -34,6 +34,10 @@ Portfolio website built using HMTL and CSS. This is a website to showcase my tec
 # Data Analysis & Data Visualizations Projects
 Compilation of SQL, Python, Tableu data analysis related projects and challenges where I practice those skills.
 
+## 📚 Projects
+
+Welcome to my portfolio, where I showcase my projects.
+
 ## :hammer_and_wrench: Languages and Tools :
 + Database (SQL Languages)
 	+ SQL
