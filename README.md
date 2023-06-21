@@ -6,6 +6,12 @@
 
 ⚡ Fun fact about me is that I like to ride my fixie around the city.
 
+<div id="badges">
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+
+</div>
 
 <!--
 I am experienced in developing and maintaining testing procedures to ensure company product standards are satisfied.
@@ -15,10 +21,6 @@ My day to day work involves conducting quality tests, performing inspection chec
 While not in school or working, I am currently enrolled in data camps to further improve my data analytics skills. Some tools I have used to gather and clean data have been SQL, python, and excel.
 -->
 
-<!--
-👯 I’m looking to collaborate
-🤝 I’m looking for help with SQL
--->
 
 <!---
 alexguerrero11/alexguerrero11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -33,7 +35,7 @@ Portfolio website built using HMTL and CSS. This is a website to showcase my tec
 Compilation of SQL, Python, Tableu data analysis related projects and challenges where I practice those skills.
 
 ## Tools
-+ SQL Languages
++ Database (SQL Languages)
 	+ SQL
 	+ MySQL
 	+ PostgreSQL
@@ -46,6 +48,13 @@ Compilation of SQL, Python, Tableu data analysis related projects and challenges
 + Python
 	+ psycopg2
 	+ jupyter notebook
+	+ Num
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+</div>
 
 
 # Projects & Challenges
